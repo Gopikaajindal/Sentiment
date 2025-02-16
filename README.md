@@ -8,9 +8,6 @@ This project is a **Sentiment Analysis Pipeline** that processes textual data to
 
 ```
 📦 Sentiment-Analysis-Pipeline
-├── 📁 data               # Dataset files
-├── 📁 models             # Trained models
-├── 📁 scripts            # Scripts for data processing & model training
 ├── app.py               # Main application file
 ├── data_cleaning.py     # Data preprocessing script
 ├── data_ingestion.py    # Data loading and processing script
