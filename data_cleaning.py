@@ -19,3 +19,4 @@ df['review'] = df['review'].apply(clean_text)
 df.to_csv("IMDB_Cleaned_Dataset.csv", index=False)
 
 print("Data cleaning complete! Cleaned data saved to IMDB_Cleaned_Dataset.csv")
+  
