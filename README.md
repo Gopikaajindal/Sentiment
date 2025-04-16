@@ -1,0 +1,2 @@
+•	Sentiment Analysis Pipeline
+    Built a sentiment analysis system using machine learning to classify text as Positive, Negative, or Neutral. Implemented end-to-end data preprocessing, model training with DistilBERT, and deployed a Flask API for real-time predictions. Integrated a Streamlit dashboard for visualization and used Docker for containerized deployment. Also included a Kafka-based setup for scalable real-time data ingestion.
